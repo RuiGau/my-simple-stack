@@ -9,6 +9,10 @@ public class Item {
         setValue(value);
     }
 
+    /**
+     * Commentaire exigence #1
+     * @return
+     */
     public Object getValue() {
         return value;
     }
